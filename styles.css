@@ -1,0 +1,17 @@
+body {
+    font-family: 'Comic Sans MS', 'Papyrus', sans-serif;
+    background-color: magenta;
+    color: yellow;
+    font-size: 21px;
+}
+body h1 {
+    font-size: 69px;
+}
+a:link,
+a:visited {
+    color: seagreen;
+}
+a:hover {
+    color: cyan;
+    font-weight: bold;
+}
